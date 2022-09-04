@@ -1,14 +1,1 @@
-distributed @ file:///opt/conda/conda-bld/distributed_1647271944416/work
-dlib==19.24.0
-Markdown @ file:///tmp/build/80754af9/markdown_1614363852612/work
-matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1647441664166/work
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 mediapipe==0.8.10.1
-numpy==1.19.5
-numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
-olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
-opencv-python==4.6.0.66
-pandas==1.4.2
-Pillow==9.0.1
-seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
-streamlit==1.12.2
